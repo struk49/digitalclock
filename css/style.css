@@ -31,7 +31,7 @@ h2{
 {
     width: 100px;
     height: 80px;
-    background-color: slateblue;
+    background-color: salmon;
     opacity: .8;
     color: white;
     display: flex;
@@ -47,7 +47,7 @@ h2{
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: darkblue;
+    background: rgb(243, 43, 77);
     opacity: .8;
 
 }
